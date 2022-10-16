@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Baumans&family=Megrim&display=swap");
+/*      Sass Template   */
+/* global Classes */
+button,
+button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* typography Classes*/
+.font-Baumans {
+  font-family: "Baumans", cursive;
+}
+
+.font-Megrim {
+  font-family: "Megrim", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-32 {
+  font-size: 32px;
+}
+
+/* Color Classes */
+.color-primary {
+  color: #f3f0f0;
+}
+
+.color-primary-bg {
+  background: #f3f0f0;
+}
+
+.color-second {
+  color: #84c1ff;
+}
+
+.color-second-bg {
+  background: #84c1ff;
+}
+
+.color-red {
+  color: #ff1808;
+}
+
+.color-red-bg {
+  background: #ff1808;
+}
+
+.color-orange {
+  color: #fa9e1e;
+}
+
+.color-orange-bg {
+  background: #fa9e1e;
+}
+
+/*# sourceMappingURL=style.css.map */

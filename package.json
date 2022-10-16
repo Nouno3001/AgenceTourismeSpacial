@@ -1,0 +1,17 @@
+{
+  "name": "agencevoyage",
+  "version": "1.0.0",
+  "description": "Agence de tourisme spacial",
+  "main": "script.js",
+  "scripts": {
+    
+    "test":"echo \"Error: no test specified\" & & exit 1",
+    "start":"sass ./sass/style.scss ./assets/Css/style.css --watch"
+  },
+  "author": "sebnono75",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git remote https://github.com/Nouno3001/AgenceTourismeSpacial.git"
+  }
+}
